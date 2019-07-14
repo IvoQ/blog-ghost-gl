@@ -1,2 +1,1 @@
-# blog-genderlab
-# blog-ghost-gl
+# Blog Genderlab en ghost
